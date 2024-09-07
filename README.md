@@ -23,3 +23,13 @@ Feel free to contribute to this repository! If you encounter any issues or have 
 - Item 2
   - Subitem A
   - Subitem B
+
+**This is bold text**
+
+_This is italicized text_
+
+> This is a quote
+
+Use `git status` to list changes.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
